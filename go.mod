@@ -9,7 +9,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/acmpca v1.14.0
 	github.com/aws/aws-sdk-go-v2/service/iam v1.16.0
 	github.com/aws/aws-sdk-go-v2/service/ram v1.7.1
-	github.com/aws/aws-sdk-go-v2/service/sts v1.6.0
+	github.com/aws/aws-sdk-go-v2/service/sts v1.14.0
 	github.com/go-logr/logr v1.2.0
 	github.com/jetstack/cert-manager v1.3.1
 	github.com/stretchr/testify v1.7.0
