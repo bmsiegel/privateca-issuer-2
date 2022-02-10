@@ -11,11 +11,11 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/ram v1.7.1
 	github.com/aws/aws-sdk-go-v2/service/sts v1.14.0
 	github.com/go-logr/logr v1.2.0
-	github.com/jetstack/cert-manager v1.3.1
+	github.com/jetstack/cert-manager v1.7.1
 	github.com/stretchr/testify v1.7.0
 	k8s.io/api v0.23.3
 	k8s.io/apimachinery v0.23.3
 	k8s.io/client-go v0.23.3
 	k8s.io/utils v0.0.0-20211116205334-6203023598ed
-	sigs.k8s.io/controller-runtime v0.8.3
+	sigs.k8s.io/controller-runtime v0.11.0
 )
